@@ -1,28 +1,35 @@
 # ADAP
 아답아답
 
-|[<img src="https://github.com/youihyonKim.png" width="100px">](https://github.com/youihyonKim)|[<img src="https://github.com/bulmang.png" width="100px">](https://github.com/bulmang)|[<img src="https://github.com/seunghoria.png" width="100px">](https://github.com/seunghoria)|[<img src="https://github.com/jay1261.png" width="100px">](https://github.com/jay1261)|
-|:----:|:----:|:----:|:----:|
-|[Malty](https://github.com/youihyonKim)|[Bulmang](https://github.com/bulmang)|[Seez](https://github.com/seunghoria)|[Jay](https://github.com/jay1261)|
+|[<img src="https://github.com/youihyonKim.png" width="100px">](https://github.com/youihyonKim)|[<img src="https://github.com/bulmang.png" width="100px">](https://github.com/bulmang)|[<img src="https://github.com/junnei.png" width="100px">](https://github.com/junnei)|[<img src="https://github.com/jay1261.png" width="100px">](https://github.com/jay1261)|[<img src="https://github.com/lil-prime01.png" width="100px">](https://github.com/lil-prime01)|
+|:----:|:----:|:----:|:----:|:----:|
+|[Malty](https://github.com/youihyonKim)|[Bulmang](https://github.com/bulmang)|[Seongjun Jang](https://github.com/junnei)|[Jay](https://github.com/jay1261)|[Rira Park](https://github.com/lil-prime01)|
 <br>
 <br>
+
 
 
 ## 🗂 레포지토리
-아래 규칙에 맞춰서 레포지토리 생성하셔서 작업하시면 됩니다!
-- 각자의 이름으로 레포지토리를 만듭니다.
-- 그 아래에 act1, act2로 프로젝트르 만들어서 작업합니다.
 
 ```swift
-jay
-├── act1
-├── act2
-└── act3
+Lowercase + dash
+ex) github-tutorial01
 ...
 ```
-<br>
-<br>
+## 🗂 파일 이름
 
+```swift
+UpperCamelCase
+ex) UpperCamelCase, JunBabo123
+...
+```
+
+## 3. Codes
+[SwiftStyleGuide](https://github.com/DeveloperAcademy-POSTECH/swift-style-guide) - 아카데미에서 사용 하는 코딩 스타일 가이드 
+
+
+<br>
+<br>
 
 ## 커밋 컨벤션
 + 커밋 규칙은 지키셔도 되고 자유롭게 하셔도 됩니다. 참고용으로 올려요.
