@@ -32,7 +32,6 @@ ex) UpperCamelCase, JunBabo123
 <br>
 
 ## 커밋 컨벤션
-+ 커밋 규칙은 지키셔도 되고 자유롭게 하셔도 됩니다. 참고용으로 올려요.
 ```
 ex) [Feat] - 애플 스토어 UI MainView 
 ```
@@ -49,4 +48,9 @@ ex) [Feat] - 애플 스토어 UI MainView
   - `[Rename]` : 파일 이름 변경이 있을 때 사용합니다.
   - `[Refactor]` : 전면 수정이 있을 때 사용합니다
   - `[Init]` : Initial Commit
-
+## Branch
+  - `main` : 개발이 완료된 산출물이 저장될 공간
+  - `develop` : feature 브랜치에서 구현된 기능들이 merge될 브랜치
+  - `feature` : 기능을 개발하는 브랜치, 이슈별/작업별로 브랜치를 생성하여 기능을 개발한다
+  - `release` : 릴리즈를 준비하는 브랜치, 릴리즈 직전 QA 기간에 사용한다
+  - `hotfix` : 버그를 수정하는 브랜치
